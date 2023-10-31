@@ -24,8 +24,8 @@ Hacer lo más parecido el diseño de pinterest. Toma en cuenta la navbar y que c
 
 Página web desplegada: [InstaPost][InstaPost]
 
-[InstaPost]: https://iamdanihdz.github.io/insta-post/
+[InstaPost]: https://danielhernandez18.github.io/devf-intro-web-insta-post/
 
-<img src="https://github.com/iamDaniHdz/insta-post/blob/master/assets/InstaPin-home.png">
+<img src="https://github.com/danielhernandez18/devf-intro-web-insta-post/blob/main/assets/InstaPin-home.png">
 
-<img src="https://github.com/iamDaniHdz/insta-post/blob/master/assets/InstaPin-post.png">
+<img src="https://github.com/danielhernandez18/devf-intro-web-insta-post/blob/main/assets/InstaPin-post.png">
